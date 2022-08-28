@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Abidur Rahman Chowdhury
 #### MERN Stack Developer
-![MERN Stack Developer](https://github.com/Abidur-Rahman-Chowdhury/Abidur-Rahman-Chowdhury/blob/master/linkedin.png)
+![MERN Stack Developer](https://github.com/Abidur-Rahman-Chowdhury/Abidur-Rahman-Chowdhury/blob/master/LinkedIn%20New%20Banner.png)
 
 Hello, This is Abidur Rahman Chowdhury. I am a MERN Stack Developer in Bangladesh. Have a look on my GitHub profile to know about my skills. And if you think am fit for any of your criteria  contact with me from below information.
 Email: abid43iiuc@gmail.com
