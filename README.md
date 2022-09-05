@@ -1,10 +1,11 @@
 ### Hi there 👋, I am Abidur Rahman Chowdhury
-#### MERN Stack Developer
-![MERN Stack Developer](https://github.com/Abidur-Rahman-Chowdhury/Abidur-Rahman-Chowdhury/blob/master/LinkedIn%20New%20Banner.png)
+#### FRONTEND REACTJS DEVELOPER
+![FRONTEND REACT DEVELOPER](https://github.com/Abidur-Rahman-Chowdhury/Abidur-Rahman-Chowdhury/blob/master/LinkedIn%20New%20Banner.png)
 
-Hello, This is Abidur Rahman Chowdhury. I am a MERN Stack Developer in Bangladesh. Have a look on my GitHub profile to know about my skills. And if you think am fit for any of your criteria  contact with me from below information.
+Hello, This is Abidur Rahman Chowdhury. I am a Frontend ReactJS Developer in Bangladesh.In a near future and I'm interested about being a FullStack developer with the MERN technologies. Have a look on my GitHub profile to know about my skills. And if you think I am fit for any of your criteria  contact with me from below information.
 Email: abid43iiuc@gmail.com
 LinkedIn: https://www.linkedin.com/in/abidur-rahman-chowdhury/
+WhatsApp:+8801687241282
 
 Skills: HTML5 / CSS3 / Bootstrap / JS / REACT / NODE / EXPRESSJS / MONGODB
 
