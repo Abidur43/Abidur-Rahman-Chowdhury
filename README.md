@@ -7,7 +7,7 @@ Email: abid43iiuc@gmail.com
 LinkedIn: https://www.linkedin.com/in/abidur-rahman-chowdhury/
 WhatsApp:+8801687241282
 
-Skills: HTML5 / CSS3 / Bootstrap / JS / REACT / NODE / EXPRESSJS / MONGODB
+Skills: HTML5 / CSS3 / Bootstrap / JS / REACT / NextJS / TypeScript / NODE / EXPRESSJS / MONGODB
 
 - 🔭 I’m currently working as a Fullstack Developer in SpiderByte It Limited
 - 🌱 I’m currently contibuting in NextJS projects on my current organization
