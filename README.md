@@ -9,8 +9,8 @@ WhatsApp:+8801687241282
 
 Skills: HTML5 / CSS3 / Bootstrap / JS / REACT / NODE / EXPRESSJS / MONGODB
 
-- 🔭 I’m currently working on Improving my skills on MERN Stack 
-- 🌱 I’m currently learning NextJs 
+- 🔭 I’m currently working as a Fullstack Developer in SpiderByte It Limited
+- 🌱 I’m currently contibuting in NextJS projects on my current organization
 - 📫 How to reach me: Email: abid43iiuc@gmail.com 
 
 
