@@ -91,7 +91,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Abidur-Rahman-Chowdhury)](https://github.com/ryo-ma/github-profile-trophy)
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abidur-Rahman-Chowdhury&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=vue&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img width="700" height="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abidur-Rahman-Chowdhury&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=vue&hide_border=false&order=2" height="150" alt="languages graph"  />
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Abidur-Rahman-Chowdhury&show_icons=true&count_private=true)  
 
