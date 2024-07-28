@@ -15,7 +15,7 @@
 
 ###
 
-<p align="left">- ✨ Creating bugs since 2023<br>- 🔭 I’m currently working as a Fullstack Developer in SpiderByte It Limited<br>- 🌱 I’m currently contibuting in NextJS projects on my current organization<br>- 📫 How to reach me: abid43iiuc@gmail.com <br>- 🎯 Goals:  Become an expert software engineer to contribute in software industry and innovations</p>
+<p align="left">- ✨ Creating bugs since 2023<br>- 🔭 I’m currently working as a Fullstack Developer in SpiderByte It Limited<br>- 🌱 I’m currently contributing in NextJS projects on my current organization<br>- 📫 How to reach me: abid43iiuc@gmail.com <br>- 🎯 Goals:  Become an expert software engineer to contribute in software industry and innovations</p>
 
 ###
 
@@ -91,11 +91,11 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Abidur-Rahman-Chowdhury)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abidur-Rahman-Chowdhury)](https://github.com/anuraghazra/github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abidur-Rahman-Chowdhury&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=vue&hide_border=false&order=2" height="150" alt="languages graph"  />
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Abidur-Rahman-Chowdhury&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Abidur-Rahman-Chowdhury)  
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abidur-Rahman-Chowdhury&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 
 ![GitHub metrics](https://metrics.lecoq.io/Abidur-Rahman-Chowdhury)  
 
