@@ -2,9 +2,8 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://github.com/Abidur-Rahman-Chowdhury/Abidur-Rahman-Chowdhury/blob/master/LinkedIn%20New%20Banner.pngu/53227705?v=4&size=64"  />
-</div>
+#### FRONTEND REACTJS DEVELOPER
+![FRONTEND REACT DEVELOPER](https://github.com/Abidur-Rahman-Chowdhury/Abidur-Rahman-Chowdhury/blob/master/LinkedIn%20New%20Banner.png)
 
 ###
 
